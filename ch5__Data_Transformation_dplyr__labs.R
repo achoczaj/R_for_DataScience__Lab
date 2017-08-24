@@ -1,17 +1,17 @@
 #--------------------------------------
 #
-# R for Data Science - http://r4ds.had.co.nz/data-visualisation.html
+#  R for Data Science - http://r4ds.had.co.nz/data-visualisation.html
 # 
-# Labs notes and exercises for Chapter 5 - Data transformation
+#  Labs notes and exercises for Chapter 5 - Data transformation
 #
-# How to transform your data using the dplyr package
+#  How to transform your data using the dplyr package
 #
 #--------------------------------------
 
 
 # load the core tidyverse packages
 library(tidyverse)
-# or olny
+# or only
 # library(dplyr)
 
 
@@ -757,6 +757,6 @@ cume_dist(y)
 
 
 # ------------------------------------
-# 5.5  Add new variables with mutate()
+# 5.6
 # ------------------------------------
 
